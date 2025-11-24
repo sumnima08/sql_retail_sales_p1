@@ -65,4 +65,4 @@ Follow these steps to run the project:
 
 1. **Download the project**
    ```bash
-
+https://github.com/sumnima08/sql_retail_sales_p1.git
